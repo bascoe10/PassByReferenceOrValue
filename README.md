@@ -25,3 +25,15 @@ string | value
 tuple | value
 
 [Ref. 1](https://www.python-course.eu/passing_arguments.php)
+
+## Java
+Data Type | Pass by...
+----------|-----------
+byte |
+char |
+short |
+int |
+long |
+float |
+double |
+boolean |
